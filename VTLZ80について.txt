@@ -10,7 +10,7 @@
 動作しませんので、注意してください。
 
 ### VTLから、CP/Mに戻るには ####
-Delete key（ASCII CODE 0x7f）を入力し、Enter（改行）を押します。
+Delete key　もしくは、Back Space key （ASCII CODE 0x7f）を入力し、Enter（改行）を押します。
 
 T. Nakagawa氏のWebには、ＶＴＬの基本的なことや、インプリメント方法が載っています
 ので、是非ご覧ください。
